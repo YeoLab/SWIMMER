@@ -1,0 +1,13 @@
+raw data parameters
+num of plates:, , ,14
+num of rows:, , ,16
+num of cols:, , ,24
+num of replicates:, , ,2
+num of contrl and exp groups:, , ,1
+ 
+analysis parameters
+num of k nearest neighbors:, , ,10
+num of polish iterations:, , ,10
+median abs dev scaling is:, , ,1.482600
+median abs dev threshold during hit selection:, , ,3
+significance level during hit selection:, , ,0.001000
